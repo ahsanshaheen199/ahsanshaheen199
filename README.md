@@ -5,7 +5,7 @@
 
 🧠 I'm currently learning Node.js, Express.js
 
-💬 Ask me about PHP, WordPress, JavaScript, TypeScript, React, NextJS
+💬 Ask me about React, NextJS, JavaScript, TypeScript, WordPress, PHP
 
 📫 You can reach me at [ahsanshaheen199@gmail.com](mailto::ahsanshaheen199@gmail.com)
 
