@@ -1,7 +1,7 @@
 # Hi, I'm Ahsan Habib Shaheen! 👋
 
 
-🧑🏻‍💻 I'm currently working at [iVendorz](https://github.com/iVendorz)
+🧑🏻‍💻 I'm currently working at [Codezen Technology](https://github.com/Codezen-technology)
 
 🧠 I'm currently learning Node.js, Express.js
 
